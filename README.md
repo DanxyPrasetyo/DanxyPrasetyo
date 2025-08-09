@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔥 About Me:
 Hello everyone, let me introduce myself. My name is Danxy. I am a developer of Termux tools and so on.
 
 
@@ -14,9 +14,6 @@ Hello everyone, let me introduce myself. My name is Danxy. I am a developer of T
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DanxyPrasetyo&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DanxyPrasetyo&icon=0&color=0)](https://visitcount.itsvg.in)
