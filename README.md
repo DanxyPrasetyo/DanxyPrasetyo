@@ -1,5 +1,4 @@
-![Deskripsi Foto](https://github.com/DanxyPrasetyo/DanxyPrasetyo/blob/main/Tak%20berjudul26_20250820174657.png)
-
+![Deskripsi Foto](https://github.com/DanxyPrasetyo/DanxyPrasetyo/blob/main/Tak%20berjudul7_20250811104800.png)
 
 # About Me:
 Hello everyone, let me introduce myself. My name is Danxy. I am a developer of Termux tools and so on.
